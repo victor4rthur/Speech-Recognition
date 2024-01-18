@@ -1,4 +1,4 @@
-You will need a server to test.
+Test Here: https://victor4rthur.github.io/Speech-Recognition/
 
 # Speech Recognition Web App
 
